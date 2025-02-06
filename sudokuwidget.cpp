@@ -108,8 +108,7 @@ void SudokuWidget::generateSudoku() {
         "   color: #2E86C1;" // Bleu moderne
         "   padding: 10px;"
         "   min-width: 300px;" // Largeur minimale pour le texte
-        "}"
-        "QMessageBox {"
+        "}" "QMessageBox {"
         "   background-color: #F4F6F7;" // Gris clair
         "   border-radius: 10px;"
         "}"
